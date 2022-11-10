@@ -35,7 +35,7 @@
   <form action="" method="post">
 
     <label for="fname">Insert Category</label>
-    <input type="text" id="fname" name="cat_title" placeholder="">
+    <input style="padding: 20px;"type="text" id="fname" name="cat_title" placeholder="">
 
     
     <input name="insert_cat" type="submit" value="Submit">
