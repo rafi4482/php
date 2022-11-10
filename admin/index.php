@@ -8,7 +8,7 @@
     <title>Admin</title>
 </head>
 <body>
-   <h1>admin</h1>
+   <h1 class="container">admin</h1>
     <div class="container">
     <a href="index.php?insert_category" class="btn sky">Insert Category</a>
     <a href="index.php?insert_brand" class="btn sky">Insert Brand</a>

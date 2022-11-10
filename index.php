@@ -17,6 +17,7 @@
       </label>
       <label class="logo">ProCarRental</label>
       <ul>
+       
         <li><a class="active" href="#">Home</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Services</a></li>
@@ -28,7 +29,8 @@
 	<div class="container">
     
     <div class="sidebar">
-  <a class="active" href="#home">Home</a>
+    <a class="active" href="">Brands</a>
+  <a  href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
